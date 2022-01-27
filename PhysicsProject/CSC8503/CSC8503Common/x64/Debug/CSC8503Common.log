@@ -1,0 +1,39 @@
+﻿  BehaviourAction.cpp
+  BehaviourNode.cpp
+  BehaviourSelector.cpp
+  BehaviourSequence.cpp
+  BehavioursNodeWithChildren.cpp
+  CollisionDetection.cpp
+  Debug.cpp
+  GameObject.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  GameWorld.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  NavigationGrid.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\NavigationGrid.cpp(80,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\NavigationGrid.cpp(81,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\NavigationGrid.cpp(83,10): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\NavigationGrid.cpp(84,10): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  PhysicsSystem.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  PositionConstraint.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Generating Code...
+  Compiling...
+  Transform.cpp
+  Generating Code...
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  CSC8503Common.vcxproj -> H:\Downloads\PhysicsProject\x64\Debug\CSC8503Common.lib

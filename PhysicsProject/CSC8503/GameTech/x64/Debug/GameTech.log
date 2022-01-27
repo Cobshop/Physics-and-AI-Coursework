@@ -1,0 +1,61 @@
+﻿  GameTechRenderer.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\Main.cpp(90,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\Main.cpp(185,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  StateGameObject.cpp
+H:\Downloads\PhysicsProject\CSC8503\GameTech\Main.cpp(314,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TutorialGame.cpp
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(90,63): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameWorld.h(36,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(186,70): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(189,73): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(196,76): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(206,78): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(270,26): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(274,27): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(305,42): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(307,43): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(352,27): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(396,55): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(397,52): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(401,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(402,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(406,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(407,55): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(418,103): warning C4244:  '=': conversion from '_Rep' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(418,103): warning C4244:         with
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(418,103): warning C4244:         [
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(418,103): warning C4244:             _Rep=__int64
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(418,103): warning C4244:         ]
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(785,5): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(788,5): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(806,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(809,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(813,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(821,80): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(822,80): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(839,64): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(892,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(892,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(894,66): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(894,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(874,6): warning C4101:  'nodeSize': unreferenced local variable
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(876,6): warning C4101:  'gridHeight': unreferenced local variable
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(875,6): warning C4101:  'gridWidth': unreferenced local variable
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(906,46): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(962,46): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(999,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1001,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1008,125): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1021,116): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1219,8): warning C4101:  'behaviourTimer': unreferenced local variable
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1220,8): warning C4101:  'distanceToTarget': unreferenced local variable
+  Generating Code...
+H:\Downloads\PhysicsProject\CSC8503\GameTech\TutorialGame.cpp(1331,29): warning C4244:  '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+H:\Downloads\PhysicsProject\CSC8503\CSC8503Common\GameObject.h(74): warning C4715:  'NCL::CSC8503::GameObject::GetTypeName': not all control paths return a value
+  GameTech.vcxproj -> H:\Downloads\PhysicsProject\x64\Debug\GameTech.exe
